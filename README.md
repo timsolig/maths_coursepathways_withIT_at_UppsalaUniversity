@@ -4,6 +4,7 @@ Some example course pathways of some past Bachelors-Masters students at Uppsala 
 These are merely some possibilities. Discuss with your programme counselor before chosing your own pathway.
 
 1. 2022, [Johannes Graner](https://www.linkedin.com/in/johannes-graner-475677129/)'s [course pathway](mathITCourseSummaryAndRecommendationsByJohannesGraner.pdf)
-2. ...
+2. 2022, [Tim Solig](https://www.linkedin.com/in/timsolig/)'s [course pathway] ()
+3. ...
 
 Past students can fork this repository, edit the `.tex` file, and make a PR to add their pathways if they believe it will help new students considering a career in mathemtics at Uppsala University.
